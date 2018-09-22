@@ -1,0 +1,11 @@
+language: dart
+sudo: false
+dart:
+- '2.0.0'
+dart_task:
+- test
+- dartfmt
+- dartanalyzer
+cache:
+  directories:
+    - $HOME/.pub-cache
