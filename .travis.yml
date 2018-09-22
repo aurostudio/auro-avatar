@@ -2,6 +2,11 @@ language: dart
 sudo: false
 dart:
 - '2.0.0'
+before_script:
+- git clone https://github.com/flutter/flutter.git -b beta
+- ./flutter/bin/flutter doctor
+script:
+- ./flutter/bin/flutter test
 dart_task:
 - test
 - dartfmt
