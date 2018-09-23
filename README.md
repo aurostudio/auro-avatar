@@ -1,6 +1,6 @@
 # Avatar with name initials generated
 
-[![Build Status](https://travis-ci.org/aurostudio/auro-avatar.svg?branch=master)](https://travis-ci.org/subosito/simple_gravatar)
+[![Build Status](https://travis-ci.org/aurostudio/auro-avatar.svg?branch=master)](https://travis-ci.org/aurostudio/auro-avatar)
 [![pub package](https://img.shields.io/pub/v/auro_avatar.svg)](https://pub.dartlang.org/packages/auro_avatar)
 
 A flutter plugin to generate an avatar with name initials from a full-name string.
