@@ -1,6 +1,6 @@
 name: auro_avatar
 description: A flutter plugin to generate an avatar with name initials from a full-name string.
-version: 0.1.0
+version: 0.1.1
 author: Auro Studio Team <admin@aurostudio.com>
 homepage: https://github.com/aurostudio/auro-avatar
 
